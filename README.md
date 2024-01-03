@@ -75,7 +75,6 @@ Close the main window to safely exit the application.
 
 ### MIT License
 
-Copyright (c) [2024] [monikeo281000]
-Permission is hereby granted...
+Copyright (c) [2024]
 
 ---
